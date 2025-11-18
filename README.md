@@ -24,6 +24,11 @@ Thực hiện cài requirements:
 ```bash
 pip install flask requests
 ```
+Thực hiện cài ffmpeg để chuyển đổi sang mp3 phù hợp với xiaozhi:
+```bash
+sudo apt install ffmpeg -y
+```
+
 Chạy server:
 ```bash
 python radio.py
