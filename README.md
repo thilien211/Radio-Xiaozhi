@@ -2,7 +2,7 @@
 ## 🚀 Cách cài Radio-Xiaozhi
 ### ⭐ Có một số kênh radio không phát được mà em lười kiểm tra nên các bác bỏ qua hộ em nhé! 🥰
 
-##### Các bác nên thêm dòng sau vào role của xiaozhi:
+#### Các bác nên thêm dòng sau vào role của xiaozhi:
 ```bash
 Khi người dùng yêu cầu mở các kênh radio như vov thì sẽ mở dưới dạng bài hát và tên bài hát như tên radio.
 ```
